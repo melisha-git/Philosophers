@@ -6,7 +6,7 @@
 
 <br>
 
-<p>Прежде чем приступить к проекту, я очень долго узнавал про многопоточность и многопроцессорность, а так же долго<a href="https://miro.com/welcomeonboard/Lada7SVVS1u3Onofei9QWrJGHg45emvih45kVwp2HiES6KEUPfFNqffdKJUiFkOl">планировал</a> выполнение</p>
+<p>Прежде чем приступить к проекту, я очень долго узнавал про многопоточность и многопроцессорность, а так же долго<a href="https://miro.com/welcomeonboard/Lada7SVVS1u3Onofei9QWrJGHg45emvih45kVwp2HiES6KEUPfFNqffdKJUiFkOl"> планировал</a> выполнение</p>
 
 <br>
 
